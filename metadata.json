@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Runner: Base Edition",
+  "description": "An infinite dodger game built for the Base ecosystem. Connect your wallet and navigate the Base cube through obstacles.",
+  "requestFramePermissions": []
+}
